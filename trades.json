@@ -526,5 +526,17 @@
     "before": "https://snipboard.io/8th7AJ.jpg",
     "after": "https://snipboard.io/qmdQCZ.jpg",
     "note": "iptal edilen işlem"
+  },
+  {
+    "id": 1777370819021,
+    "date": "2026-04-16",
+    "pair": "FIL",
+    "direction": "LONG",
+    "rr": 5,
+    "risk": "1",
+    "month": "2026-04",
+    "before": "https://snipboard.io/TwUeky.jpg",
+    "after": "https://snipboard.io/EwpAtf.jpg",
+    "note": ""
   }
 ]
