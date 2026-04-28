@@ -568,7 +568,7 @@
     "date": "2026-04-20",
     "pair": "AVAX",
     "direction": "SHORT",
-    "rr": 1,
+    "rr": -1,
     "risk": "1",
     "month": "2026-04",
     "before": "https://snipboard.io/XBWDOU.jpg",
