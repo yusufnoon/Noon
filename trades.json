@@ -490,5 +490,17 @@
     "before": "https://snipboard.io/H9sWqB.jpg",
     "after": "https://snipboard.io/H72MBb.jpg",
     "note": ""
+  },
+  {
+    "id": 1777370383190,
+    "date": "2026-04-05",
+    "pair": "BTC",
+    "direction": "SHORT",
+    "rr": 2.5,
+    "risk": "1",
+    "month": "2026-04",
+    "before": "video",
+    "after": "https://snipboard.io/aoml7B.jpg",
+    "note": "videolu analizde verilen işlem"
   }
 ]
