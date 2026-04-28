@@ -502,5 +502,17 @@
     "before": "video",
     "after": "https://snipboard.io/aoml7B.jpg",
     "note": "videolu analizde verilen işlem"
+  },
+  {
+    "id": 1777370598501,
+    "date": "2026-04-10",
+    "pair": "LTC",
+    "direction": "SHORT",
+    "rr": 2,
+    "risk": "",
+    "month": "2026-04",
+    "before": "https://snipboard.io/5kNpDB.jpg",
+    "after": "https://snipboard.io/8WBNov.jpg",
+    "note": ""
   }
 ]
