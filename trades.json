@@ -634,5 +634,17 @@
     "before": "https://snipboard.io/txGTlI.jpg",
     "after": "https://snipboard.io/jnb7C6.jpg",
     "note": ""
+  },
+  {
+    "id": 1777371970742,
+    "date": "2026-04-14",
+    "pair": "BTC",
+    "direction": "LONG",
+    "rr": 2.5,
+    "risk": "1",
+    "month": "2026-04",
+    "before": "CHAT",
+    "after": "https://snipboard.io/rF9WYN.jpg",
+    "note": "chatte verilen işlem"
   }
 ]
