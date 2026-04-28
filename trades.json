@@ -538,5 +538,17 @@
     "before": "https://snipboard.io/TwUeky.jpg",
     "after": "https://snipboard.io/EwpAtf.jpg",
     "note": ""
+  },
+  {
+    "id": 1777370907064,
+    "date": "2026-04-28",
+    "pair": "BTC",
+    "direction": "SHORT",
+    "rr": 1.3,
+    "risk": "1",
+    "month": "2026-04",
+    "before": "https://snipboard.io",
+    "after": "https://snipboard.io/yqfSJ8.jpg",
+    "note": ""
   }
 ]
