@@ -718,5 +718,17 @@
     "before": "https://snipboard.io/hMkBE7.jpg",
     "after": "https://snipboard.io/iO19yb.jpg",
     "note": ""
+  },
+  {
+    "id": 1779879516510,
+    "date": "2026-05-13",
+    "pair": "BTC",
+    "direction": "LONG",
+    "rr": -1,
+    "risk": "1",
+    "month": "2026-05",
+    "before": "https://snipboard.io/TBRItw.jpg",
+    "after": "stop",
+    "note": ""
   }
 ]
