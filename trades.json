@@ -646,5 +646,17 @@
     "before": "CHAT",
     "after": "https://snipboard.io/rF9WYN.jpg",
     "note": "chatte verilen işlem"
+  },
+  {
+    "id": 1779878856485,
+    "date": "2026-05-27",
+    "pair": "BNB",
+    "direction": "SHORT",
+    "rr": -1,
+    "risk": "1",
+    "month": "2026-05",
+    "before": "https://snipboard.io/MprcXF.jpg",
+    "after": "https://snipboard.io/W9zJ3R.jpg",
+    "note": ""
   }
 ]
