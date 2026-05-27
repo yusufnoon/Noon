@@ -742,5 +742,17 @@
     "before": "yayın",
     "after": "https://snipboard.io/TC7Iko.jpg",
     "note": ""
+  },
+  {
+    "id": 1779879657533,
+    "date": "2026-05-21",
+    "pair": "BTC",
+    "direction": "LONG",
+    "rr": 1.5,
+    "risk": "1",
+    "month": "2026-05",
+    "before": "https://snipboard.io/aeGSfj.jpg",
+    "after": "https://snipboard.io/",
+    "note": ""
   }
 ]
