@@ -790,5 +790,17 @@
     "before": "video",
     "after": "https://snipboard.io/iZIpOv.jpg",
     "note": ""
+  },
+  {
+    "id": 1780215772203,
+    "date": "2026-05-29",
+    "pair": "ETH",
+    "direction": "LONG",
+    "rr": 2,
+    "risk": "1",
+    "month": "2026-05",
+    "before": "Analiz videosu",
+    "after": "https://snipboard.io/tJb3fO.jpg",
+    "note": ""
   }
 ]
