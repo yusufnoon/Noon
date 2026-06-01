@@ -792,6 +792,18 @@
     "note": ""
   },
   {
+    "id": 1780215772203,
+    "date": "2026-05-29",
+    "pair": "ETH",
+    "direction": "LONG",
+    "rr": 2,
+    "risk": "1",
+    "month": "2026-05",
+    "before": "Analiz videosu",
+    "after": "https://snipboard.io/tJb3fO.jpg",
+    "note": ""
+  },
+  {
     "id": 1780215842224,
     "date": "2026-05-29",
     "pair": "POL",
@@ -801,6 +813,18 @@
     "month": "2026-05",
     "before": "https://snipboard.io/kA7s8o.jpg",
     "after": "https://snipboard.io/Jv6c2D.jpg",
+    "note": ""
+  },
+  {
+    "id": 1780311735325,
+    "date": "2026-05-30",
+    "pair": "ETHFI",
+    "direction": "LONG",
+    "rr": -1,
+    "risk": "",
+    "month": "2026-05",
+    "before": "https://snipboard.io/VugOHF.jpg",
+    "after": "",
     "note": ""
   }
 ]
