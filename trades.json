@@ -826,5 +826,17 @@
     "before": "https://snipboard.io/VugOHF.jpg",
     "after": "",
     "note": ""
+  },
+  {
+    "id": 1780311824612,
+    "date": "2026-06-26",
+    "pair": "VIRTUAL",
+    "direction": "LONG",
+    "rr": 0,
+    "risk": "1",
+    "month": "2026-05",
+    "before": "https://snipboard.io/hnOrPW.jpg",
+    "after": "",
+    "note": "Entry stop"
   }
 ]
