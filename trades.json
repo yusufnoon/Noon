@@ -994,5 +994,17 @@
     "before": "https://snipboard.io/dR8kNw.jpg",
     "after": "https://snipboard.io/wuTh7e.jpg",
     "note": ""
+  },
+  {
+    "id": 1782799630462,
+    "date": "2026-06-10",
+    "pair": "ETH",
+    "direction": "LONG",
+    "rr": 1.5,
+    "risk": "1",
+    "month": "2026-06",
+    "before": "https://snipboard.io/szR4AG.jpg",
+    "after": "https://snipboard.io/3WPXVr.jpg",
+    "note": ""
   }
 ]
