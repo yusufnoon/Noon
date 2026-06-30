@@ -982,5 +982,17 @@
     "before": "https://snipboard.io/5YQCbo.jpg",
     "after": "https://snipboard.io/62Iakl.jpg",
     "note": ""
+  },
+  {
+    "id": 1782799583393,
+    "date": "2026-06-08",
+    "pair": "AAVE",
+    "direction": "LONG",
+    "rr": 3.7,
+    "risk": "0.5",
+    "month": "2026-06",
+    "before": "https://snipboard.io/dR8kNw.jpg",
+    "after": "https://snipboard.io/wuTh7e.jpg",
+    "note": ""
   }
 ]
