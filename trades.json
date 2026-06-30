@@ -970,5 +970,17 @@
     "before": "https://snipboard.io/H5cRPJ.jpg",
     "after": "https://snipboard.io/6NMfjF.jpg",
     "note": "+%44 SPOT"
+  },
+  {
+    "id": 1782799533920,
+    "date": "2026-06-08",
+    "pair": "SUI",
+    "direction": "LONG",
+    "rr": 4,
+    "risk": "0.5",
+    "month": "2026-06",
+    "before": "https://snipboard.io/5YQCbo.jpg",
+    "after": "https://snipboard.io/62Iakl.jpg",
+    "note": ""
   }
 ]
