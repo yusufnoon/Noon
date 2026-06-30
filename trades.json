@@ -934,5 +934,17 @@
     "before": "https://snipboard.io/kehDMm.jpg",
     "after": "https://www.tradingview.com/x/nBLn57b3/ sonrası",
     "note": "SPOT %44 KAZANÇ"
+  },
+  {
+    "id": 1782799312987,
+    "date": "2026-06-01",
+    "pair": "WIF",
+    "direction": "LONG",
+    "rr": 1.5,
+    "risk": "1",
+    "month": "2026-06",
+    "before": "https://snipboard.io/Zo2uCz.jpg",
+    "after": "https://snipboard.io/7y4KXH.jpg",
+    "note": ""
   }
 ]
